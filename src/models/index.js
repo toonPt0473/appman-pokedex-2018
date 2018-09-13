@@ -1,0 +1,1 @@
+export { pokedexModel } from './pokedexModel'
